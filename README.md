@@ -30,7 +30,7 @@ Zhuxian woodblock New Year prints are one of the oldest production centres of Ch
 
 ## License
 
-Released under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** — see `LICENSE`. You may use, share and adapt the material for non-commercial purposes with attribution. **Commercial use in any form (including commercial products, paid services, commercial model training, or commercial evaluation) requires prior written permission** — contact: [CONTACT_EMAIL_TO_BE_ADDED].
+Released under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** — see `LICENSE`. You may use, share and adapt the material for non-commercial purposes with attribution. **Commercial use in any form (including commercial products, paid services, commercial model training, or commercial evaluation) requires prior written permission** — contact: 1922733078@qq.com.
 
 ## Citation
 
