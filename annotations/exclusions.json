@@ -1,0 +1,8 @@
+{
+  "excluded_from_train": [
+    {
+      "path": "05_戏曲故事/018_举坛挥刀四人混战_IMG20260430152104.png",
+      "reason": "PNG 文件截断（无 IEND 块、末个 IDAT 不完整，1,540,096 字节/结构需 1,598,058；Pillow load() 报 OSError('image file is truncated')）。主智能体裁决（2026-10-28，候选方案 3 豁免口径）：原字节完全不动，登记豁免；该样本（CSV 记录：train 划分、质量分 4、缺陷扣分 0）从 train/训练与评测中排除。路径基准为 /root/miniconda3/图像数据集（年画分类版）/。"
+    }
+  ]
+}

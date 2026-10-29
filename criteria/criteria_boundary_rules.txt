@@ -1,0 +1,9 @@
+R1 Main-visual-first: judge by the largest, most central, most color-saturated figure group,
+    not by the theme's origin.
+R2 Two symmetric confronting door gods = martial door god, not opera scene.
+R3 Three or more figures with narrative interaction = opera scene; mounted duels count.
+R4 "Five sons" / "Tianguan bestows blessings" (one large civil deity + small children) =
+    civil-official deity (the large figure is the subject).
+R5 "Mother teaches her son" type (seated lady + kneeling child + old scholar) = lady/beauty.
+R6 Narrative scenes (Nezha, heavenly marriage, multi-person treasure basin) = opera scene.
+R7 Single-child motifs (holding carp, riding rooster) = infant/child.

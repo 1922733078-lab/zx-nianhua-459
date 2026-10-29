@@ -1,0 +1,6 @@
+5 = print fills the frame, aligned, saturated clean colors, crisp lines, no fingers/shadows/
+    desk/creases.
+4 = clean and vivid, only minor background edges or slight creases.
+3 = obvious desk background / creases / color cast, but the print is complete and readable.
+2 = fingers in frame, oversized background, fading, or the subject partially cropped.
+1 = blurry / overexposed / only a partial fragment.

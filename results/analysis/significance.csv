@@ -1,0 +1,15 @@
+a,b,metric,boot_lo,boot_hi,mcnemar_n01,mcnemar_n10,p
+pred_m1_t1_R.jsonl,pred_m2_t1_R.jsonl,f1,0.0205,0.2381,1,6,0.125
+pred_m1_t1_R.jsonl,pred_vit_s16_finetune_seed42.jsonl,f1,-0.2355,0.2047,6,3,0.50781
+pred_m1_t1_R.jsonl,pred_m1_t1_N.jsonl,f1,0.0573,0.2878,0,8,0.00781
+pred_m1_t1_R.jsonl,pred_m3_t1_R.jsonl,f1,0.0328,0.2228,0,6,0.03125
+pred_m2_t2_S.jsonl,pred_m2_t2_S2.jsonl,mae,-0.8444,-0.5111,22,2,4e-05
+pred_m1_t2_RS.jsonl,pred_m1_t2_N.jsonl,mae,0.4444,0.8889,3,25,3e-05
+pred_m1_t2_RS.jsonl,pred_m3_t2_RS2.jsonl,mae,0.0889,0.4444,4,16,0.01182
+pred_m1_t1_R_full.jsonl,pred_m2_t1_R_full.jsonl,f1,0.0601,0.13,14,60,0.0
+pred_m1_t1_R_full.jsonl,pred_m3_t1_R_full.jsonl,f1,0.0338,0.1066,16,61,0.0
+pred_m1_t1_N_full.jsonl,pred_m3_t1_N_full.jsonl,f1,0.0187,0.1259,51,61,0.39519
+pred_m1_art_N.jsonl,pred_m1_art_R.jsonl,f1,0.0191,0.1049,11,30,0.00432
+pred_m2_art_N.jsonl,pred_m2_art_R.jsonl,f1,0.051,0.1555,19,41,0.00622
+pred_m1_art_S.jsonl,pred_m1_art_N.jsonl,f1,0.0333,0.1135,8,30,0.00047
+pred_m2_art_S.jsonl,pred_m2_art_N.jsonl,f1,-0.0035,0.0918,20,35,0.05806

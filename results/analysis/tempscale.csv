@@ -1,0 +1,11 @@
+file,T,ece_before,ece_after
+pred_m1_t1_N.jsonl,1.684,0.2782,0.2196
+pred_m1_t1_R.jsonl,1.724,0.2281,0.1893
+pred_m1_t1_RS.jsonl,1.965,0.2007,0.1487
+pred_m1_t1_S.jsonl,2.061,0.2667,0.1803
+pred_m2_t1_N.jsonl,7.675,0.3855,0.1559
+pred_m2_t1_R.jsonl,6.64,0.3294,0.1989
+pred_m2_t1_RS.jsonl,7.117,0.2887,0.1579
+pred_m2_t1_Rbr.jsonl,8.344,0.4006,0.2023
+pred_m2_t1_Rdef.jsonl,8.227,0.3653,0.1371
+pred_m2_t1_S.jsonl,8.063,0.3634,0.1082
